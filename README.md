@@ -34,7 +34,7 @@ Loop forever (for each episode):
 <img src="https://latex.codecogs.com/svg.image?\color{white}V(S_{t})&space;\underset{}{\leftarrow}&space;V(S_{t})&space;&plus;&space;\alpha&space;[G(S_{t})&space;-&space;V(S_{t})]">
 
 
-## First-Visit MC method implementation in Blackjack or 21
+## First-Visit MC method implementation in Blackjack
 
 * uses OpenAI's gym environment (interface for running games of blackjack - all collected information on states, actions
 , and rewards are kept within "observation" variables)
